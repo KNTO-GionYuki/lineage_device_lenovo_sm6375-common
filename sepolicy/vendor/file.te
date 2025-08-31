@@ -1,0 +1,2 @@
+# Partitions
+type fsg_file, contextmount_type, file_type, vendor_file_type;
